@@ -1,9 +1,7 @@
-# Guilherme W S de Melo - LabSis-UFRN # 
-
 echo
 echo "      #########################################
       ##                                     ##
-      ##   Conversores CD11 e REFTEK  v0.2   ##
+      ##   Conversores CD11 e REFTEK  v1.2   ##
       ##                                     ##
       ##         Guilherme de Melo           ##
       ##         gwsmelo@gmail.com           ##
