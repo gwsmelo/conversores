@@ -11,8 +11,10 @@ echo \
 echo
 echo
 echo "Digiite o nome da do seu usuario de computador:"
-read usuario
-echo	
+read usuario	
+
+conversores () {
+
 echo "Digite o número do formato inicial e em seguida a tecle ENTER:"
 echo \	
 echo "              1 -> CD11   2 -> REFTEK"
@@ -290,10 +292,10 @@ fi
 echo
 echo "Conversão concluída!"
 echo 
+}
 
 echo "Deseja converter mais dados? Digite yes ou no:"
 read maisdados
-
 
 
 	
